@@ -7,6 +7,7 @@
 - Open Source Enthusiast, Geek, Postgraduate @UNSW
 - Grown up in Tianjin, Studyed in Amoy and Sydney.
 - Interesting in Data Science, Blockchain, Smart Home
+- MTJGA!
 
 
 <!--
