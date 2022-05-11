@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+
+<img src="/Users/Niko/Downloads/pancake-squad-2163-1000.png" alt="pancake-squad-2163-1000" style="zoom:33%;" img align="right" />
+
+
+### This is Niko
+
+- Open Source enthusiast, geek, Postgraduate @UNSW
+- Grown up in Tianjin, studyed in Amoy and Sydney.
+- Interesting in Data Science, Blockchain, Smart Home
+- This right pic is my first NFT @PancakeSquad
+
+
 <!--
 **n1k0ver3E/n1k0ver3E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
