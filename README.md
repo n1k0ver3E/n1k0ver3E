@@ -2,9 +2,6 @@
 
 
 
-<img src="/Users/Niko/Downloads/pancake-squad-2163-1000.png" alt="pancake-squad-2163-1000" style="zoom:33%;" img align="right" />
-
-
 ### This is Niko
 
 - Open Source Enthusiast, Geek, Postgraduate @UNSW
