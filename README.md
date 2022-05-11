@@ -7,10 +7,9 @@
 
 ### This is Niko
 
-- Open Source enthusiast, geek, Postgraduate @UNSW
-- Grown up in Tianjin, studyed in Amoy and Sydney.
+- Open Source Enthusiast, Geek, Postgraduate @UNSW
+- Grown up in Tianjin, Studyed in Amoy and Sydney.
 - Interesting in Data Science, Blockchain, Smart Home
-- This right pic is my first NFT @PancakeSquad
 
 
 <!--
