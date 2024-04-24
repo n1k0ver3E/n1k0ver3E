@@ -5,8 +5,7 @@
 ### This is Niko
 
 - Open Source Enthusiast, Geek, Postgraduate @UNSW
-- Grown up in Tianjin, Studyed in Amoy and Sydney.
-- Interesting in Data Science, Blockchain, Smart Home
+- Interesting in LLM related Applications, Data Science, Blockchain, Smart Home
 - MTJGA!
 
 
